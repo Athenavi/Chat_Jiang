@@ -1,0 +1,13 @@
+{
+    "app_name": "七棵树-Chat酱",
+    "api_key": "",
+    "api_url": "https://api.openai.com/",
+    "chat_model": "gpt-3.5-turbo",
+    "chat_max_tokens": "",
+    "chat_temperature": "",
+    "chat_timeout": "300",
+    "chat_system_prompt": "",
+    "chat_user_prompt": "",
+    "chat_character_url": "",
+    "chat_character_opacity": 80
+}
